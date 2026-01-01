@@ -1,0 +1,53 @@
+{
+  "Bleed": "Sangramento",
+  "Burn": "Incêndio",
+  "Poison": "Veneno",
+  "Shock": "Choque",
+  "Disorient": "Desorientação",
+  "Blind": "Cegueira",
+  "Deafened": "Surdez",
+  "Ensnare": "Imobilização",
+  "Confuse": "Confusão",
+
+  "Damage Over Time": "Dano ao Longo do Tempo",
+  "Crowd Control": "Controle de Multidão",
+
+  "Buff": "Bônus",
+  "Debuff": "Efeito Negativo",
+
+  "Stack": "Acúmulo",
+  "Stacks": "Acúmulos",
+  "Max Stacks": "Acúmulos Máximos",
+
+  "On Kill": "Ao Eliminar",
+  "On Hit": "Ao Acertar",
+  "On Critical Hit": "Ao Acerto Crítico",
+  "On Headshot": "Ao Acerto na Cabeça",
+  "While Aiming": "Enquanto Mira",
+  "While Firing": "Enquanto Atira",
+  "Taking Damage": "Ao Sofrer Dano",
+
+  "Cooldown": "Tempo de Recarga",
+  "Duration": "Duração",
+  "Cooldown Reduction": "Redução de Tempo de Recarga",
+
+  "Applies": "Aplica",
+  "Spreads": "Se Espalha",
+  "Refreshes": "Renova",
+  "Consumes": "Consome",
+  "Removes": "Remove",
+  "Grants": "Concede",
+  "Increases": "Aumenta",
+  "Decreases": "Reduz",
+
+  "Skill Proxy": "Dispositivo de Habilidade",
+  "Armor Kit": "Kit de Armadura",
+  "Pulse": "Pulso",
+  "Scanner Pulse": "Pulso Scanner",
+  "Jammer Pulse": "Pulso Bloqueador",
+
+  "Bleeding Enemies": "Inimigos Sangrando",
+  "Burning Enemies": "Inimigos em Chamas",
+  "Shocked Enemies": "Inimigos Atordoados",
+  "Disoriented Enemies": "Inimigos Desorientados"
+}
