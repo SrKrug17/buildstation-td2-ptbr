@@ -1,47 +1,25 @@
 {
-  "Optimist": "Otimista",
-  "Weapon damage is increased by 3% for every 10% missing from the magazine": 
-  "O dano da arma é aumentado em 3% para cada 10% de munição faltando no pente",
-
-  "Strained": "Tensionado",
-  "Gain 10% critical hit damage for every 0.5 seconds you are firing": 
-  "Ganha 10% de Dano Crítico a cada 0,5s enquanto estiver atirando",
-
-  "Measured": "Medido",
-  "The top half of the magazine has 20% rate of fire and -30% weapon damage":
-  "A metade superior do pente tem +20% de Cadência e -30% de Dano de Arma",
-
-  "Unhinged": "Descontrolado",
-  "+18% weapon damage":
-  "+18% de Dano de Arma",
-  "-20% stability":
-  "-20% de Estabilidade",
-
-  "Killer": "Assassino",
-  "Critical hits grant 40% critical hit damage for 10 seconds":
-  "Acertos críticos concedem +40% de Dano Crítico por 10 segundos",
-
-  "Plague of the Outcasts": "Peste dos Proscritos",
-  "Hits apply a debuff dealing 100% weapon damage over 10 seconds":
-  "Acertos aplicam um efeito negativo que causa 100% do Dano de Arma ao longo de 10 segundos",
-  "This debuff spreads on kill":
-  "Esse efeito se espalha ao eliminar um inimigo",
-
-  "Vigilance": "Vigilância",
-  "Increases weapon damage by 25%":
-  "Aumenta o Dano de Arma em 25%",
-  "Taking damage disables this buff for 4 seconds":
-  "Sofrer dano desativa este bônus por 4 segundos",
-
-  "Unstoppable Force": "Força Imparável",
-  "Killing an enemy increases weapon damage by 5% for 15 seconds":
-  "Eliminar um inimigo aumenta o Dano de Arma em 5% por 15 segundos",
-  "Stacks up to 5 times":
-  "Acumula até 5 vezes",
-
-  "Bloodsucker": "Sugador de Sangue",
-  "Killing an enemy adds bonus armor":
-  "Eliminar um inimigo concede Armadura Extra",
-  "Bonus armor lasts for 10 seconds":
-  "A Armadura Extra dura 10 segundos"
+    "Optimist": "Otimista",
+    "Weapon damage is increased by 3% for every 10% missing from the magazine": "O dano da arma é aumentado em 3% para cada 10% de munição faltando no pente",
+    "Strained": "Tensionado",
+    "Gain 10% critical hit damage for every 0.5 seconds you are firing": "Ganha 10% de Dano Crítico a cada 0,5s enquanto estiver atirando",
+    "Measured": "Medido",
+    "The top half of the magazine has 20% rate of fire and -30% weapon damage": "A metade superior do pente tem +20% de Cadência e -30% de Dano de Arma",
+    "Unhinged": "Descontrolado",
+    "+18% weapon damage": "+18% de Dano de Arma",
+    "-20% stability": "-20% de Estabilidade",
+    "Killer": "Assassino",
+    "Critical hits grant 40% critical hit damage for 10 seconds": "Acertos críticos concedem +40% de Dano Crítico por 10 segundos",
+    "Plague of the Outcasts": "Peste dos Proscritos",
+    "Hits apply a debuff dealing 100% weapon damage over 10 seconds": "Acertos aplicam um efeito negativo que causa 100% do Dano de Arma ao longo de 10 segundos",
+    "This debuff spreads on kill": "Esse efeito se espalha ao eliminar um inimigo",
+    "Vigilance": "Vigilância",
+    "Increases weapon damage by 25%": "Aumenta o Dano de Arma em 25%",
+    "Taking damage disables this buff for 4 seconds": "Sofrer dano desativa este bônus por 4 segundos",
+    "Unstoppable Force": "Força Imparável",
+    "Killing an enemy increases weapon damage by 5% for 15 seconds": "Eliminar um inimigo aumenta o Dano de Arma em 5% por 15 segundos",
+    "Stacks up to 5 times": "Acumula até 5 vezes",
+    "Bloodsucker": "Sugador de Sangue",
+    "Killing an enemy adds bonus armor": "Eliminar um inimigo concede Armadura Extra",
+    "Bonus armor lasts for 10 seconds": "A Armadura Extra dura 10 segundos"
 }
