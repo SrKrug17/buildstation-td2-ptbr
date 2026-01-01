@@ -1,0 +1,7 @@
+{
+  "(\\d+)% Weapon Damage": "$1% de Dano de Arma",
+  "(\\d+)% Critical Hit Chance": "$1% de Chance de Acerto Crítico",
+  "(\\d+)% Critical Hit Damage": "$1% de Dano Crítico",
+  "(\\d+) seconds": "$1 segundos",
+  "Stacks up to (\\d+)": "Acumula até $1"
+}
